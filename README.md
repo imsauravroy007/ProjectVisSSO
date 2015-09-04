@@ -21,7 +21,7 @@ Deploy in IIS
 Prerequisites -:
 
 Make sure .net 4.0 is installed 
-Use VS2010 with Identity and Access tools installed (VISX) 
+Use VS2010 with Identity and Access tools installed (VSIX) 
 Install Windows Identity Framework 4.0 SDK 
 Supported langauge vb.net as of now 
 
