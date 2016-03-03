@@ -12,7 +12,7 @@ Partial Public Class Login
                 FormsAuthentication.RedirectFromLoginPage(txtUserName.Text, False)
             Else
                 FormsAuthentication.SetAuthCookie(txtUserName.Text, False)
-                Response.Redirect("default.aspx")
+                Response.Redirect("
             End If
 
         ElseIf Not IsPostBack Then
